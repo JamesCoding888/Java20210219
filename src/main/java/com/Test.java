@@ -10,7 +10,7 @@ import java.time.ZoneId;
 import java.util.Calendar;
 import java.util.Date;
 
-public class Test {
+public class Test{
     public static void main(String[] args) throws Exception {
         Date date = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
